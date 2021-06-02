@@ -156,7 +156,7 @@ module.exports = {
 
 ## Running Seeds
 
-In last step you have create a seed file. It's still not committed to database. To do that we need to run a simple command.
+In last step you created a seed file. It's still not committed to database. To do that we need to run a simple command.
 
 ```text
 npx sequelize-cli db:seed:all
